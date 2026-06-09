@@ -24,7 +24,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Click_to_Open-6366f1?style=for-the-badge)](https://churnguard-ai.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Click_to_Open-6366f1?style=for-the-badge)](https://churnguard-ai-gtrcxjchriaymoadprmhmd.streamlit.app/)
 [![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/churnguard-ai?style=for-the-badge&color=fbbf24)](https://github.com/YOUR_USERNAME/churnguard-ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-10b981?style=for-the-badge)](LICENSE)
 
@@ -67,7 +67,7 @@ It supports **two industry datasets**:
 
 ## 🎯 Live Demo
 
-> 🔗 **[https://churnguard-ai.streamlit.app](https://churnguard-ai.streamlit.app)**
+> 🔗 **[https://churnguard-ai-gtrcxjchriaymoadprmhmd.streamlit.app/](https://churnguard-ai-gtrcxjchriaymoadprmhmd.streamlit.app/)**
 
 Click the link above to explore the full app live — no installation needed.
 
