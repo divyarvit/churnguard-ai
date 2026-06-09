@@ -80,42 +80,42 @@ Click the link above to explore the full app live — no installation needed.
 ### 📊 Overview Dashboard
 > Hero banner with live KPIs, churn probability distribution, and risk segment donut chart
 
-![Overview Dashboard](screenshots/overview.png)
+![Overview Dashboard](churnguard_pro/screenshots/overview.png)
 
 ---
 
 ### 👥 Customer Risk Intelligence Table
 > Searchable, filterable table with color-coded risk badges and one-click CSV export
 
-![Customer Table](screenshots/customer_table.png)
+![Customer Table](churnguard_pro/screenshots/customer_table.png)
 
 ---
 
 ### 🎯 Predict Churn + SHAP Explainability
 > Real-time prediction gauge + SHAP waterfall chart showing exactly *why* a customer is at risk
 
-![Predict Churn](screenshots/predict_shap.png)
+![Predict Churn](churnguard_pro/screenshots/predict_shap.png)
 
 ---
 
 ### 🔬 What-If Simulator
 > Adjust customer attributes via sliders and watch churn probability update live
 
-![What If Simulator](screenshots/whatif.png)
+![What If Simulator](churnguard_pro/screenshots/whatif.png)
 
 ---
 
 ### 🤖 Model Performance Report
 > Compare all 4 ML models — ROC curves, confusion matrix, precision-recall, CV scores
 
-![Model Performance](screenshots/model_performance.png)
+![Model Performance](churnguard_pro/screenshots/model_performance.png)
 
 ---
 
 ### 📈 EDA & Insights
 > Deep-dive visualizations: monthly charges, tenure, payment method, contract type vs churn
 
-![EDA](screenshots/eda.png)
+![EDA](churnguard_pro/screenshots/eda.png)
 
 </div>
 
